@@ -1,0 +1,3 @@
+interface:
+  display_name: "macOS App CLI Integration"
+  short_description: "Build CLIs for macOS apps and local agents"
